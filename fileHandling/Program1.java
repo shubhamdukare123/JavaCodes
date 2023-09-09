@@ -5,6 +5,6 @@ class FileDemo{
 		fobj.mkdir();
 		File nobj = new File("FileHandling", "Code2");
 		nobj.createNewFile();	
-
+		
 	}
 }
